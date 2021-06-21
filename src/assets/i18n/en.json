@@ -1,0 +1,17 @@
+{
+	"login": {
+		"title": "Login Form",
+		"select.language":"Select language for translation",
+		"username.label": "Username",
+		"username.placeholder": "Username Here",
+		"password.label": "Password",
+		"password.placeholder": "Enter Password",
+		"button.name": "Signin",
+		"forgotpassword.link": "Forgot Password ?",
+		"register.link": "Create New Account",
+		"button.en": "English",
+		"button.ta": "Tamil",
+		"button.fr": "French",
+		"button.zh": "Chinese"
+	}
+}
